@@ -46,5 +46,5 @@ Zápočet sa skladá z troch častí: 5 domácich úloh po 2 body, Zadanie 1 za 
 Priebežný stav hodnotenia nájdete [tu](https://docs.google.com/spreadsheets/d/19EyknXtyv0s8ocWo8quZOBL9E_RCH4yCI_wg0QdoDbg/edit?usp=sharing).
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
-* SUTTON, R. S. - Barto A. G.: [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT press, 2018.
+* SUTTON, R. S. - Barto A. G.: [*Reinforcement Learning: An Introduction*](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf). MIT press, 2018.
 * MORALES M.: [*Grokking Deep Reinforcement Learning*](https://www.amazon.com/Grokking-Reinforcement-Learning-Miguel-Morales/dp/1617295450). Manning Publications, 2020.
