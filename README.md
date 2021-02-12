@@ -34,7 +34,7 @@ Prezentácie z prednášok sú dostupné na [tejto stránke](http://people.tuke.
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
-Zápočet sa skladá z troch častí: 5 domácich úloh po 2 body, Zadanie 1 za 15 bodov a Zadanie 2 za 15 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania). Zadanie 1 bude zverejnené v prvom, Zadanie 2 v štvrtom týždni. Zadanie 1 sa odovzdáva do konca ôsmeho týždňa a Zadanie 2 sa preberá v trinástom týždni.
+Zápočet sa skladá z troch častí: 5 domácich úloh po 2 body, Zadanie 1 za 15 bodov a Zadanie 2 za 15 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania). Zadanie 1 bude zverejnené v prvom, Zadanie 2 v štvrtom týždni. Zadanie 1 sa odovzdáva do konca ôsmeho týždňa a Zadanie 2 sa preberá v desiatom týždni.
 
 |                  Zložka                 | Body |
 |:---------------------------------------:|:----:|
