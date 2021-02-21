@@ -18,10 +18,10 @@ Prednáška z predmetu je v pondelok o 13:30 v miestnosti B520 v hlavnej budove 
 |             Týždeň           | Prednáška |                     Cvičenie                     |               Termíny             |
 |:----------------------------:|:---------:|:------------------------------------------------:|:---------------------------------:|
 | Týždeň 1<br>15. 2. - 21. 2.  | Úvod do učenia posilňovaním | úvod, priradenie Z1<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb) | [Z1 publikované](assignments/assignment1.md)    |
-| Týždeň 2<br>22. 2. - 28. 2.  | Učenie posilňovaním ako<br>Markovovský rozhodovací proces | [vytvorenie vlastného prostredia](labs/lab02-creating-environments.ipynb) |                                   |
-| Týždeň 3<br>1. 3. - 7. 3.    | Monte Carlo metódy | Bellmanove rovnice                               |                                   |
-| Týždeň 4<br>8. 3. - 14. 3.   | Temporal-difference metódy | metóda Policy iteration                          | DÚ1 publikovaná<br>Z2 publikované |
-| Týždeň 5<br>15. 3. - 21. 3.  |           | metóda Value iteration                           | DÚ2 publikovaná<br>odovzdanie DÚ1 |
+| Týždeň 2<br>22. 2. - 28. 2.  | Učenie posilňovaním ako<br>Markovovský rozhodovací proces | [vytvorenie vlastného prostredia](labs/lab02-creating-environments.ipynb) | DÚ1 publikovaná |
+| Týždeň 3<br>1. 3. - 7. 3.    | Monte Carlo metódy | Bellmanove rovnice                               | odovzdanie DÚ1 |
+| Týždeň 4<br>8. 3. - 14. 3.   | Temporal-difference metódy | metóda Policy iteration                          | Z2 publikované |
+| Týždeň 5<br>15. 3. - 21. 3.  |           | metóda Value iteration                           | DÚ2 publikovaná                   |
 | Týždeň 6<br>22. 3. - 28. 3.  |           | Monte Carlo metódy                               | DÚ3 publikovaná<br>odovzdanie DÚ2 |
 | Týždeň 7<br>29. 3. - 4. 4.   |           | metódy Q-learning a SARSA                        | DÚ4 publikovaná<br>odovzdanie DÚ3 |
 | Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | Veľká Noc                                        | odovzdanie DÚ4<br>odovzdanie Z1   |
