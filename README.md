@@ -20,11 +20,11 @@ Prednáška z predmetu je v pondelok o 13:30 v miestnosti B520 v hlavnej budove 
 | Týždeň 1<br>15. 2. - 21. 2.  | Úvod do učenia posilňovaním | úvod, priradenie Z1<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb) | [Z1 publikované](assignments/assignment1.md)    |
 | Týždeň 2<br>22. 2. - 28. 2.  | Učenie posilňovaním ako<br>Markovovský rozhodovací proces | [vytvorenie vlastného prostredia](labs/lab02-creating-environments.ipynb) | DÚ1 publikovaná |
 | Týždeň 3<br>1. 3. - 7. 3.    | Monte Carlo metódy | [Bellmanove rovnice](labs/lab03-bellman-equation.ipynb)  | odovzdanie DÚ1 |
-| Týždeň 4<br>8. 3. - 14. 3.   | Temporal-difference metódy | [metóda Policy iteration](labs/lab04-policy-iteration.ipynb)                |                |
-| Týždeň 5<br>15. 3. - 21. 3.  |           | metóda Value iteration                           | DÚ2 publikovaná<br>Z1 publikované |
-| Týždeň 6<br>22. 3. - 28. 3.  |           | Monte Carlo metódy                               | DÚ3 publikovaná<br>odovzdanie DÚ2 |
-| Týždeň 7<br>29. 3. - 4. 4.   |           | metódy Q-learning a SARSA                        | DÚ4 publikovaná<br>odovzdanie DÚ3 |
-| Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | Veľká Noc                                        | odovzdanie DÚ4<br>odovzdanie Z1   |
+| Týždeň 4<br>8. 3. - 14. 3.   | Temporal-difference metódy | [Bellmanove rovnice](labs/lab03-bellman-equation.ipynb)                |                |
+| Týždeň 5<br>15. 3. - 21. 3.  |           | [metóda Policy iteration](labs/lab04-policy-iteration.ipynb)                           | DÚ2 publikovaná<br>[Z2 publikované](assignments/assignment2.md) |
+| Týždeň 6<br>22. 3. - 28. 3.  |           | metóda Value iteration                     | DÚ3 publikovaná<br>odovzdanie DÚ2 |
+| Týždeň 7<br>29. 3. - 4. 4.   |           | Monte Carlo metódy                       | DÚ4 publikovaná<br>odovzdanie DÚ3 |
+| Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | metódy Q-learning a SARSA               | odovzdanie DÚ4<br>odovzdanie Z1   |
 | Týždeň 9<br>12. 4. - 18. 4.  |           | Q siete                                          | DÚ5 publikovaná                   |
 | Týždeň 10<br>19. 4. - 25. 4. |           | preberanie zadaní                                | odovzdanie DÚ5<br>odovzdanie Z2   |
 
@@ -40,7 +40,7 @@ Zápočet sa skladá z troch častí: 5 domácich úloh po 2 body, Zadanie 1 za 
 |:---------------------------------------:|:----:|
 |             5 domácich úloh             |  10  |
 | [zadanie 1](assignments/assignment1.md) |  15  |
-|                zadanie 2                |  15  |
+| [zadanie 2](assignments/assignment2.md) |  15  |
 |                 skúška                  |  60  |
 
 Priebežný stav hodnotenia nájdete [tu](https://docs.google.com/spreadsheets/d/19EyknXtyv0s8ocWo8quZOBL9E_RCH4yCI_wg0QdoDbg/edit?usp=sharing).
