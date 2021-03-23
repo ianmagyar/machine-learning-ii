@@ -1,7 +1,7 @@
 import numpy as np
 
 states = [0, 1, 2, 3, 4, 5, 6, 7, 8]
-actions = [0, 1, 2, 3]
+actions = ['N', 'E', 'S', 'W']
 N_STATES = 9
 N_ACTIONS = 4
 
@@ -66,7 +66,7 @@ while delta > theta:
         for action in range(N_ACTIONS):
             action_value = sum([P[s, action, s1] * (R[s, action, s1] + gamma * V[s1]) for s1 in range(N_STATES)])
             action_values.append(action_value)
-            print("S{}, action {}: {}".format(s, action, action_value))
+            print("Q(S{}, {}) = {}".format(s, actions[action], action_value))
         V[s] = max(action_values)
         delta = max(delta, abs(prev_value - V[s]))
 
@@ -79,4 +79,4 @@ for s in range(N_STATES):
     best_action = np.argmax(action_values)
     policy[s][best_action] = 1.0
 
-print(policy)
+    print("π(s{}) = {}".format(s, actions[best_action]))
