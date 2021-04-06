@@ -15,7 +15,7 @@ class QLearning:
         self.env_height, self.env_width = self.env.height, self.env.width
 
         self.q_table = np.zeros(
-            (self.env_height, self.env_height, len(self.actions)))
+            (self.env_height, self.env_width, len(self.actions)))
 
     def train_episode(self):
         curr_pos = self.env.reset()
