@@ -25,7 +25,7 @@ Prednáška z predmetu je v pondelok o 13:30 v miestnosti B520 v hlavnej budove 
 | Týždeň 6<br>22. 3. - 28. 3.  |           | [metóda Value iteration](labs/lab05-value-iteration.ipynb)                     | DÚ3 publikovaná<br>odovzdanie DÚ2 |
 | Týždeň 7<br>29. 3. - 4. 4.   |           | [Monte Carlo metódy](labs/lab06-monte-carlo.ipynb)                       | DÚ4 publikovaná<br>odovzdanie DÚ3 |
 | Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | [metódy Q-learning a SARSA](labs/lab07-q-learning-and-sarsa.ipynb)               | odovzdanie DÚ4<br>odovzdanie Z1<br>DÚ5 publikovaná   |
-| Týždeň 9<br>12. 4. - 18. 4.  |           | Q siete                                          | odovzdanie DÚ5                   |
+| Týždeň 9<br>12. 4. - 18. 4.  |           | [Q siete](labs/lab08-q-networks.ipynb)                                          | odovzdanie DÚ5                   |
 | Týždeň 10<br>19. 4. - 25. 4. |           | preberanie zadaní                                | odovzdanie Z2                    |
 
 Prezentácie z prednášok sú dostupné na [tejto stránke](http://people.tuke.sk/marian.mach/course-mlII-en.html).
