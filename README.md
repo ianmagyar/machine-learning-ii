@@ -15,18 +15,18 @@ Informačný list predmetuje je dostupný na [školskom portáli](https://maispo
 
 Prednáška z predmetu je v pondelok o 13:30 v miestnosti B520 v hlavnej budove (L9). Cvičenia sú v utorok o 10:50 v miestnosti LUI1 v budove BN3 (budova ÚVT). Účasť na cvičeniach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
 
-|             Týždeň           | Prednáška |                     Cvičenie                     |               Termíny             |
-|:----------------------------:|:---------:|:------------------------------------------------:|:---------------------------------:|
-| Týždeň 1<br>15. 2. - 21. 2.  | Úvod do učenia posilňovaním | úvod, priradenie Z1<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb) | [Z1 publikované](assignments/assignment1.md)    |
-| Týždeň 2<br>22. 2. - 28. 2.  | Učenie posilňovaním ako<br>Markovovský rozhodovací proces | [vytvorenie vlastného prostredia](labs/lab02-creating-environments.ipynb) | DÚ1 publikovaná |
-| Týždeň 3<br>1. 3. - 7. 3.    | Monte Carlo metódy | [Bellmanove rovnice](labs/lab03-bellman-equation.ipynb)  | odovzdanie DÚ1 |
-| Týždeň 4<br>8. 3. - 14. 3.   | Temporal-difference metódy | [Bellmanove rovnice](labs/lab03-bellman-equation.ipynb)                |                |
-| Týždeň 5<br>15. 3. - 21. 3.  |           | [metóda Policy iteration](labs/lab04-policy-iteration.ipynb)                           | DÚ2 publikovaná<br>[Z2 publikované](assignments/assignment2.md) |
-| Týždeň 6<br>22. 3. - 28. 3.  |           | [metóda Value iteration](labs/lab05-value-iteration.ipynb)                     | DÚ3 publikovaná<br>odovzdanie DÚ2 |
-| Týždeň 7<br>29. 3. - 4. 4.   |           | [Monte Carlo metódy](labs/lab06-monte-carlo.ipynb)                       | DÚ4 publikovaná<br>odovzdanie DÚ3 |
-| Týždeň 8<br>5. 4. - 11. 4.   | Veľká Noc | [metódy Q-learning a SARSA](labs/lab07-q-learning-and-sarsa.ipynb)               | odovzdanie DÚ4<br>odovzdanie Z1<br>DÚ5 publikovaná   |
-| Týždeň 9<br>12. 4. - 18. 4.  |           | [Q siete](labs/lab08-q-networks.ipynb)                                          | odovzdanie DÚ5                   |
-| Týždeň 10<br>19. 4. - 25. 4. |           | preberanie zadaní                                | odovzdanie Z2                    |
+|                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
+|:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
+|  1. týždeň<br>14. 2. - 20. 2. |              Úvod do učenia posilňovaním              |         Úvod do predmetu OpenAI gym        | Z1 zverejnené<br>Z2 zverejnené |
+|  2. týždeň<br>21. 2. - 27. 2. | Markovovské rozhodovacie procesy a Bellmanove rovnice |             Bellmanove rovnice             |                                |
+|  3. týždeň<br>28. 2. - 6. 3.  |   Dynamické programovanie, policy a value iteration   |       Metódy policy a value iteration      |                                |
+|  4. týždeň<br>7. 3. - 13. 3.  |                   Monte Carlo metódy                  |             Monte Carlo metódy             |                                |
+|  5. týždeň<br>14. 3. - 20. 3. |                       TD-metódy                       |    Q-Learning, SARSA, Double Q-Learning    |                                |
+|  6. týždeň<br>21. 3. - 27. 3. |            Aproximácia hodnotových funkcií            |       Práca so spojitými prostrediami      | Z2 prvé kolo                   |
+|  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 |           Q-siete, Deep Q-Network          | Z1 odovzdanie                  |
+|  8. týždeň<br>4. 4. - 10. 4.  |                                                       | Návrh a implementácia vlastného prostredia | Z2 druhé kolo                  |
+|  9. týždeň<br>11. 4. - 17. 4. |                                                       |             Actor-critic metódy            |                                |
+| 10. týždeň<br>18. 4. - 24. 4. |                       Veľká Noc                       |              preberanie zadaní             | Z3 tretie kolo                 |
 
 Prezentácie z prednášok sú dostupné na [tejto stránke](http://people.tuke.sk/marian.mach/course-mlII-en.html).
 
@@ -34,14 +34,13 @@ Prezentácie z prednášok sú dostupné na [tejto stránke](http://people.tuke.
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
-Zápočet sa skladá z troch častí: 5 domácich úloh po 2 body, Zadanie 1 za 15 bodov a Zadanie 2 za 15 bodov. Na vypracovanie domácich úloh majú študenti jeden týždeň (zadanie bude zverejnené týždeň pred termínom odovzdania). Zadanie 1 bude zverejnené v prvom, Zadanie 2 v štvrtom týždni. Zadanie 1 sa odovzdáva do konca ôsmeho týždňa a Zadanie 2 sa preberá v desiatom týždni.
+Zápočet sa skladá z dvoch zadaní, prvé za 10, druhé za 30 bodov, obe budú zverejnené v prvom týždni. Zadanie 1 sa odovzdáva do konca siedmeho týždňa a Zadanie 2 sa preberá v desiatom týždni.
 
 |                  Zložka                 | Body |
 |:---------------------------------------:|:----:|
-|             5 domácich úloh             |  10  |
-| [zadanie 1](assignments/assignment1.md) |  15  |
-| [zadanie 2](assignments/assignment2.md) |  15  |
-|                 skúška                  |  60  |
+| [zadanie 1](assignments/assignment1.md) |  10  |
+| zadanie 2                               |  30  |
+| skúška                                  |  60  |
 
 Priebežný stav hodnotenia nájdete [tu](https://docs.google.com/spreadsheets/d/19EyknXtyv0s8ocWo8quZOBL9E_RCH4yCI_wg0QdoDbg/edit?usp=sharing).
 
