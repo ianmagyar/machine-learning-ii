@@ -13,7 +13,7 @@ Informačný list predmetuje je dostupný na [školskom portáli](https://maispo
 
 **Vzhľadom na pretrvávajúce opatrenia v súvislosti s pandémiou COVID-19 všetky prednášky a cvičenia sú realizované online prostredníctvom MS Teams až do odvolania.**
 
-Prednáška z predmetu je v pondelok o 13:30 v miestnosti B520 v hlavnej budove (L9). Cvičenia sú v utorok o 10:50 v miestnosti LUI1 v budove BN3 (budova ÚVT). Účasť na cvičeniach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
+Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (V4). Cvičenia sú v pondelok o 13:30 v miestnosti B520 v budove L9 (hlavná budova). Účasť na cvičeniach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
 
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
@@ -40,7 +40,7 @@ Zápočet sa skladá z dvoch zadaní, prvé za 10, druhé za 30 bodov, obe budú
 | zadanie 2                               |  30  |
 | skúška                                  |  60  |
 
-Priebežný stav hodnotenia nájdete [tu](https://docs.google.com/spreadsheets/d/19EyknXtyv0s8ocWo8quZOBL9E_RCH4yCI_wg0QdoDbg/edit?usp=sharing).
+[Priebežný stav hodnotenia nájdete tu](https://docs.google.com/spreadsheets/d/1rKYwykd3eCjIzR9lUyfFJifpZP9qgLe4LE3q8ja2ATg/edit?usp=sharing).
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 * SUTTON, R. S. - Barto A. G.: [*Reinforcement Learning: An Introduction*](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf). MIT press, 2018.
