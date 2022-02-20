@@ -17,7 +17,7 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
-|  1. týždeň<br>14. 2. - 20. 2. |              [Úvod do učenia posilňovaním](lectures/Lecture01.pdf)              |       Úvod do predmetu<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb)       | [Z1 zverejnené](assignments/assignment1.md)<br>Z2 zverejnené |
+|  1. týždeň<br>14. 2. - 20. 2. |              [Úvod do učenia posilňovaním](lectures/Lecture01.pdf)              |       Úvod do predmetu<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb)       | [Z1 zverejnené](assignments/assignment1.md)<br>[Z2 zverejnené](assignments/assignment2.md) |
 |  2. týždeň<br>21. 2. - 27. 2. | Markovovské rozhodovacie procesy a Bellmanove rovnice |             [Bellmanove rovnice](labs/lab02-bellman-equation.ipynb)             |                                |
 |  3. týždeň<br>28. 2. - 6. 3.  |   Dynamické programovanie, policy a value iteration   |       Metódy policy a value iteration      |                                |
 |  4. týždeň<br>7. 3. - 13. 3.  |                   Monte Carlo metódy                  |             Monte Carlo metódy             |                                |
@@ -37,7 +37,7 @@ Zápočet sa skladá z dvoch zadaní, prvé za 10, druhé za 30 bodov, obe budú
 |                  Zložka                 | Body |
 |:---------------------------------------:|:----:|
 | [zadanie 1](assignments/assignment1.md) |  10  |
-| zadanie 2                               |  30  |
+| [zadanie 2](assignments/assignment2.md) |  30  |
 | skúška                                  |  60  |
 
 [Priebežný stav hodnotenia nájdete tu](https://docs.google.com/spreadsheets/d/1rKYwykd3eCjIzR9lUyfFJifpZP9qgLe4LE3q8ja2ATg/edit?usp=sharing).
