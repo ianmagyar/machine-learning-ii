@@ -19,7 +19,7 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
 |  1. týždeň<br>14. 2. - 20. 2. |              [Úvod do učenia posilňovaním](lectures/Lecture01.pdf)              |       Úvod do predmetu<br>[OpenAI gym](labs/lab01-setting-things-up.ipynb)       | [Z1 zverejnené](assignments/assignment1.md)<br>[Z2 zverejnené](assignments/assignment2.md) |
 |  2. týždeň<br>21. 2. - 27. 2. | [Markovovské rozhodovacie procesy a Bellmanove rovnice](lectures/Lecture02.pdf) |             [Bellmanove rovnice](labs/lab02-bellman-equation.ipynb)             |                                |
-|  3. týždeň<br>28. 2. - 6. 3.  |   Dynamické programovanie, policy a value iteration   |       Metódy policy a value iteration      |                                |
+|  3. týždeň<br>28. 2. - 6. 3.  |   Dynamické programovanie, policy a value iteration   |       Metódy [policy](labs/lab03a-policy-iteration.ipynb) a [value iteration](labs/lab03b-value-iteration.ipynb)      |                                |
 |  4. týždeň<br>7. 3. - 13. 3.  |                   Monte Carlo metódy                  |             Monte Carlo metódy             |                                |
 |  5. týždeň<br>14. 3. - 20. 3. |                       TD-metódy                       |    Q-Learning, SARSA, Double Q-Learning    |                                |
 |  6. týždeň<br>21. 3. - 27. 3. |            Aproximácia hodnotových funkcií            |       Práca so spojitými prostrediami      | Z2 prvé kolo                   |
