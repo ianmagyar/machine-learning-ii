@@ -21,7 +21,7 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 |  2. týždeň<br>21. 2. - 27. 2. | [Markovovské rozhodovacie procesy a Bellmanove rovnice](lectures/Lecture02.pdf) |             [Bellmanove rovnice](labs/lab02-bellman-equation.ipynb)             |                                |
 |  3. týždeň<br>28. 2. - 6. 3.  |   [Dynamické programovanie, policy a value iteration](lectures/Lecture03.pdf)   |       Metódy [policy](labs/lab03a-policy-iteration.ipynb) a [value iteration](labs/lab03b-value-iteration.ipynb)      |                                |
 |  4. týždeň<br>7. 3. - 13. 3.  |                   [Monte Carlo metódy](lectures/Lecture04.pdf)                  |             [Monte Carlo metódy](labs/lab04-monte-carlo.ipynb)             |                                |
-|  5. týždeň<br>14. 3. - 20. 3. |                       TD-metódy                       |    [Q-Learning a SARSA](labs/lab05-q-learning-and-sarsa.ipynb)    |                                |
+|  5. týždeň<br>14. 3. - 20. 3. |                       [TD-metódy](lectures/Lecture05.pdf)                       |    [Q-Learning a SARSA](labs/lab05-q-learning-and-sarsa.ipynb)    |                                |
 |  6. týždeň<br>21. 3. - 27. 3. |            Aproximácia hodnotových funkcií            |       Práca so spojitými prostrediami      | Z2 prvé kolo                   |
 |  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 |           Q-siete, Deep Q-Network          | Z1 odovzdanie                  |
 |  8. týždeň<br>4. 4. - 10. 4.  |        Riešenie čiastočne pozorovateľných úloh        | Návrh a implementácia vlastného prostredia | Z2 druhé kolo                  |
