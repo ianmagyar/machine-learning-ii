@@ -22,10 +22,10 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 |  3. týždeň<br>28. 2. - 6. 3.  |   [Dynamické programovanie, policy a value iteration](lectures/Lecture03.pdf)   |       Metódy [policy](labs/lab03a-policy-iteration.ipynb) a [value iteration](labs/lab03b-value-iteration.ipynb)      |                                |
 |  4. týždeň<br>7. 3. - 13. 3.  |                   [Monte Carlo metódy](lectures/Lecture04.pdf)                  |             [Monte Carlo metódy](labs/lab04-monte-carlo.ipynb)             |                                |
 |  5. týždeň<br>14. 3. - 20. 3. |                       [TD-metódy](lectures/Lecture05.pdf)                       |    [Q-Learning a SARSA](labs/lab05-q-learning-and-sarsa.ipynb)    |                                |
-|  6. týždeň<br>21. 3. - 27. 3. |            Aproximácia hodnotových funkcií            |       Práca so spojitými prostrediami      | Z2 prvé kolo                   |
-|  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 |           Q-siete, Deep Q-Network          | Z1 odovzdanie                  |
-|  8. týždeň<br>4. 4. - 10. 4.  |        Riešenie čiastočne pozorovateľných úloh        | Návrh a implementácia vlastného prostredia | Z2 druhé kolo                  |
-|  9. týždeň<br>11. 4. - 17. 4. |                                                       |             Actor-critic metódy            |                                |
+|  6. týždeň<br>21. 3. - 27. 3. |            Aproximácia hodnotových funkcií            |           Q-siete, Deep Q-Network          |                                |
+|  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 | Návrh a implementácia vlastného prostredia | Z2 prvé kolo                   |
+|  8. týždeň<br>4. 4. - 10. 4.  |        Riešenie čiastočne pozorovateľných úloh        |       Práca so spojitými prostrediami      | Z1 odovzdanie                  |
+|  9. týždeň<br>11. 4. - 17. 4. |                                                       |             Actor-critic metódy            | Z2 druhé kolo                  |
 | 10. týždeň<br>18. 4. - 24. 4. |                       Veľká Noc                       |              preberanie zadaní             | Z3 tretie kolo                 |
 
 ## Hodnotenie <a name="grading"></a>
