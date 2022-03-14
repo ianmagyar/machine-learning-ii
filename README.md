@@ -26,7 +26,7 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 |  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 | Návrh a implementácia vlastného prostredia | Z2 prvé kolo                   |
 |  8. týždeň<br>4. 4. - 10. 4.  |        Riešenie čiastočne pozorovateľných úloh        |       Práca so spojitými prostrediami      | Z1 odovzdanie                  |
 |  9. týždeň<br>11. 4. - 17. 4. |                                                       |             Actor-critic metódy            | Z2 druhé kolo                  |
-| 10. týždeň<br>18. 4. - 24. 4. |                       Veľká Noc                       |              preberanie zadaní             | Z3 tretie kolo                 |
+| 10. týždeň<br>18. 4. - 24. 4. |                       Veľká Noc                       |              preberanie zadaní             | Z2 tretie kolo                 |
 
 ## Hodnotenie <a name="grading"></a>
 
