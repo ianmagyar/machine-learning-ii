@@ -23,8 +23,8 @@ Prednáška z predmetu je v pondelok o 7:30 v miestnosti V102 v hlavnej budove (
 |  4. týždeň<br>7. 3. - 13. 3.  |                   [Monte Carlo metódy](lectures/Lecture04.pdf)                  |             [Monte Carlo metódy](labs/lab04-monte-carlo.ipynb)             |                                |
 |  5. týždeň<br>14. 3. - 20. 3. |                       [TD-metódy](lectures/Lecture05.pdf)                       |    [Q-Learning a SARSA](labs/lab05-q-learning-and-sarsa.ipynb)    |                                |
 |  6. týždeň<br>21. 3. - 27. 3. |            [Aproximácia hodnotových funkcií](lectures/Lecture06.pdf)            |           [Q-siete, Deep Q-Network](labs/lab06-q-networks.ipynb)          |                                |
-|  7. týždeň<br>28. 3. - 3. 4.  |                  Aproximácia politiky                 | [Návrh a implementácia vlastného prostredia](labs/lab07-creating-environments.ipynb) | Z2 prvé kolo                   |
-|  8. týždeň<br>4. 4. - 10. 4.  |        Riešenie čiastočne pozorovateľných úloh        |       Práca so spojitými prostrediami      | Z1 odovzdanie                  |
+|  7. týždeň<br>28. 3. - 3. 4.  |                  [Aproximácia politiky](lectures/Lecture07.pdf)                 | [Návrh a implementácia vlastného prostredia](labs/lab07-creating-environments.ipynb) | Z2 prvé kolo                   |
+|  8. týždeň<br>4. 4. - 10. 4.  |          Nové prístupy v učení posilňovaním           |       Práca so spojitými prostrediami      | Z1 odovzdanie                  |
 |  9. týždeň<br>11. 4. - 17. 4. |                                                       |             Actor-critic metódy            | Z2 druhé kolo                  |
 | 10. týždeň<br>18. 4. - 24. 4. |                       Veľká Noc                       |              preberanie zadaní             | Z2 tretie kolo                 |
 
