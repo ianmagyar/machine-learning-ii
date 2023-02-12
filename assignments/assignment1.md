@@ -3,7 +3,7 @@
 V prvom zadaní budete aplikovať známe metódy učenia posilňovaním pri riešení štandardných problémov z knižnice `gym`. Zámerom zadania je získať skúsenosti s aplikáciou algoritmov na riešenie jednoduchých problémov, s vyhodnotením výsledkov, s ladením hyperparametrov a s porovnávaním rôznych prístupov.
 
 ## Úloha
-Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posilňovaním pre riešenie štandardných problémov, ktoré slúžia ako benchmarky pre takéto algoritmy. V prvom týždni vám bude pridelený problém, ktorý musíte vyriešiť minimálne tromi algoritmami. Výber algoritmov je na vás, nesmiete však použiť algoritmy s neurónovými sieťami. Následne naimplementujete vybrané algoritmy, aplikujete ich pri riešení problému, a vyhodnotíte ich. K tomu musíte vykonať niekoľko experimentov s rôznymi nastaveniami hyperparametrov, výsledky vyhodnotiť a takto prispôsobiť hodnoty hyperparametrov. Pri jednom nastavení hyperparametrov vykonajte niekoľko testovacích behov, a výsledky spriemerujte. Vaše výsledky následne potrebujete zrhnúť v tabuľke. Pri vyhodnocovaní algoritmov môžete použiť rôzne metriky, ako napríklad rýchlosť trénovania, miera konvergencie, najlepšia dosiahnutá politika (*policy*), stabilita natrénovanej politiky, atď.
+Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posilňovaním pre riešenie štandardných problémov, ktoré slúžia ako benchmarky pre takéto algoritmy. V druhom týždni vám bude pridelený problém, ktorý musíte vyriešiť minimálne tromi algoritmami. Výber algoritmov je na vás, nesmiete však použiť algoritmy s neurónovými sieťami. Následne naimplementujete vybrané algoritmy, aplikujete ich pri riešení problému, a vyhodnotíte ich. K tomu musíte vykonať niekoľko experimentov s rôznymi nastaveniami hyperparametrov, výsledky vyhodnotiť a takto prispôsobiť hodnoty hyperparametrov. Pri jednom nastavení hyperparametrov vykonajte niekoľko testovacích behov, a výsledky spriemerujte. Vaše výsledky následne potrebujete zrhnúť v tabuľke. Pri vyhodnocovaní algoritmov môžete použiť rôzne metriky, ako napríklad rýchlosť trénovania, miera konvergencie, najlepšia dosiahnutá politika (*policy*), stabilita natrénovanej politiky, atď.
 
 ### Prostredia
 * Mountain Car - [pôvodná](https://gym.openai.com/envs/MountainCar-v0/) alebo [spojitá](https://gym.openai.com/envs/MountainCarContinuous-v0/) verzia
@@ -12,7 +12,7 @@ Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posil
 * [Acrobot](https://gym.openai.com/envs/Acrobot-v1/)
 * [Pendulum](https://gym.openai.com/envs/Pendulum-v0/)
 * [Taxi](https://gym.openai.com/envs/Taxi-v3/)
-* prípadne môžete použiť vlastné prostredie po konzultácii s cvičiacim (okrem Gridworld; vybrať si musíte do konca tretieho týždňa)
+* prípadne môžete použiť vlastné prostredie po konzultácii s cvičiacim (okrem Gridworld; vybrať si musíte do konca piateho týždňa)
 
 ### Algoritmy
 Pri vypracovaní zadania môžete použiť ľubovoľný algoritmus pre učenie posilňovaním, ktorý nevyužíva neurónovú sieť. Ak si nie ste istí, výber algoritmov prekonzultuje s vyučujúcimi. Nápady pre algoritmy:
@@ -40,7 +40,7 @@ Vaše riešenie musí mať nasledovnú štruktúru:
     * porovnanie algoritmov na základe vami zvolených kritérií - tabuľková alebo grafová podoba.
 
 ## Odovzdávanie
-Vaše riešenia odovzdávate cez MS Teams ako jeden zip súbor s hore uvedenou štruktúrou. Termín odovzdania je **1. 4. 2022**. Po odovzdaní vaše riešenie musíte aj obhájiť - termíny budú vypísané pre posledné tri týždne semestra.
+Vaše riešenia odovzdávate cez MS Teams ako jeden zip súbor s hore uvedenou štruktúrou. Termín odovzdania je **6. 4. 2022** (štvrtok). Po odovzdaní vaše riešenie musíte aj obhájiť - termíny budú vypísané pre posledné dva týždne semestra.
 
 ## Hodnotenie
 Za zadanie môžete získať maximálne 10 bodov, pričom bodové rozdelenie je nasledovné:
