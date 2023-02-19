@@ -16,7 +16,7 @@ Prednáška z predmetu je vo štvrtok o 9:10 v miestnosti V144 v budove V4. Cvi�
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
 |  1. týždeň<br>13. 2. - 19. 2. |              Úvod do učenia posilňovaním              |  Úvod do predmetu<br>[Matematické základy](https://marian.mach.website.tuke.sk/presentations/su2/prez-matrep.pdf)   |                                |
-|  2. týždeň<br>20. 2. - 26. 2. | Markovovské rozhodovacie procesy a Bellmanove rovnice | Návrh a implementácia vlastného prostredia | Z1 zverejnené                  |
+|  2. týždeň<br>20. 2. - 26. 2. | Markovovské rozhodovacie procesy a Bellmanove rovnice | [Návrh a implementácia vlastného prostredia](labs/lab02-creating-environments.ipynb) | [Z1 zverejnené](assignments/assignment1.md)                  |
 |  3. týždeň<br>27. 2. - 5. 3.  | Markovovské rozhodovacie procesy a Bellmanove rovnice |             Bellmanove rovnice             | Z2 zverejnené                  |
 |  4. týždeň<br>6. 3. - 12. 3.  |            Metódy dynamického programovania           |       Metódy policy a value iteration      |                                |
 |  5. týždeň<br>13. 3. - 19. 3. |                   Monte Carlo metódy                  |             Monte Carlo metódy             |                                |
