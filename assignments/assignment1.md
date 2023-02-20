@@ -6,12 +6,12 @@ V prvom zadaní budete aplikovať známe metódy učenia posilňovaním pri rie�
 Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posilňovaním pre riešenie štandardných problémov, ktoré slúžia ako benchmarky pre takéto algoritmy. V druhom týždni vám bude pridelený problém, ktorý musíte vyriešiť minimálne tromi algoritmami. Výber algoritmov je na vás, nesmiete však použiť algoritmy s neurónovými sieťami. Následne naimplementujete vybrané algoritmy, aplikujete ich pri riešení problému, a vyhodnotíte ich. K tomu musíte vykonať niekoľko experimentov s rôznymi nastaveniami hyperparametrov, výsledky vyhodnotiť a takto prispôsobiť hodnoty hyperparametrov. Pri jednom nastavení hyperparametrov vykonajte niekoľko testovacích behov, a výsledky spriemerujte. Vaše výsledky následne potrebujete zhrnúť v tabuľke. Pri vyhodnocovaní algoritmov môžete použiť rôzne metriky, ako napríklad rýchlosť trénovania, miera konvergencie, najlepšia dosiahnutá politika (*policy*), stabilita natrénovanej politiky, atď.
 
 ### Prostredia
-* Mountain Car - [pôvodná](https://gym.openai.com/envs/MountainCar-v0/) alebo [spojitá](https://gym.openai.com/envs/MountainCarContinuous-v0/) verzia
-* Frozen Lake - verzia [4x4](https://gym.openai.com/envs/FrozenLake-v0/), resp. [8x8](https://gym.openai.com/envs/FrozenLake8x8-v0/)
-* [Cart Pole](https://gym.openai.com/envs/CartPole-v1/)
-* [Acrobot](https://gym.openai.com/envs/Acrobot-v1/)
-* [Pendulum](https://gym.openai.com/envs/Pendulum-v0/)
-* [Taxi](https://gym.openai.com/envs/Taxi-v3/)
+* Mountain Car - [pôvodná](https://gymnasium.farama.org/environments/classic_control/mountain_car/) alebo [spojitá](https://gymnasium.farama.org/environments/classic_control/mountain_car_continuous/) verzia
+* Frozen Lake - verzia [4x4](https://gymnasium.farama.org/environments/toy_text/frozen_lake/), resp. [8x8](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)
+* [Cart Pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+* [Acrobot](https://gymnasium.farama.org/environments/classic_control/acrobot/)
+* [Pendulum](https://gymnasium.farama.org/environments/classic_control/pendulum/)
+* [Taxi](https://gymnasium.farama.org/environments/toy_text/taxi/)
 * prípadne môžete použiť vlastné prostredie po konzultácii s cvičiacim (okrem Gridworld; vybrať si musíte do konca piateho týždňa)
 
 ### Algoritmy
