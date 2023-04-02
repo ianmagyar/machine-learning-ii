@@ -22,7 +22,7 @@ Prednáška z predmetu je vo štvrtok o 9:10 v miestnosti V144 v budove V4. Cvi�
 |  5. týždeň<br>13. 3. - 19. 3. |				        TD-metódy  		    			|             [Monte Carlo metódy](labs/lab05-monte-carlo.ipynb)             |                                |
 |  6. týždeň<br>20. 3. - 26. 3. |            Aproximácia hodnotových funkcií            |             [Q-Learning a SARSA](labs/lab06-q-learning-and-sarsa.ipynb)             |                                |
 |  7. týždeň<br>27. 3. - 2. 4.  |                  Aproximácia politiky                 |           [Q-siete, Deep Q-Network](labs/lab07-q-networks.ipynb)          |                                |
-|  8. týždeň<br>3. 4. - 9. 4.   |                                                       |        Práca so spojitými priestormi       | Z1 odovzdanie                  |
+|  8. týždeň<br>3. 4. - 9. 4.   |                       Veľká Noc                       |        [Práca so spojitými priestormi](labs/lab08-continuous-states.ipynb)       | Z1 odovzdanie                  |
 |  9. týždeň<br>10. 4. - 16. 4. |                                                       |                 Veľká Noc                  |                                |
 | 10. týždeň<br>17. 4. - 23. 4. |                                                       |              preberanie zadaní             | Z2 odovzdanie                  |
 
