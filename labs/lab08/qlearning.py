@@ -30,7 +30,6 @@ class QLearning:
             angle = ANGLES[action]
 
             new_pos, reward, done, _ = self.env.step(angle)
-            new_pos = self.preprocess_state(new_pos)
 
             try:
                 self.learn(curr_pos, new_pos, action, reward)
