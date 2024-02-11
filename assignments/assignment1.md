@@ -1,30 +1,22 @@
 # Zadanie 1
 
-V prvom zadaní budete aplikovať známe metódy učenia posilňovaním pri riešení štandardných problémov z knižnice `gym`. Zámerom zadania je získať skúsenosti s aplikáciou algoritmov na riešenie jednoduchých problémov, s vyhodnotením výsledkov, s ladením hyperparametrov a s porovnávaním rôznych prístupov.
+V prvom zadaní budete aplikovať známe metódy učenia posilňovaním pri riešení štandardných problémov z knižnice `Gymnasium`. Zámerom zadania je získať skúsenosti s aplikáciou algoritmov na riešenie jednoduchých problémov, s vyhodnotením výsledkov, s ladením hyperparametrov a s porovnávaním rôznych prístupov.
 
 ## Úloha
-Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posilňovaním pre riešenie štandardných problémov, ktoré slúžia ako benchmarky pre takéto algoritmy. V druhom týždni vám bude pridelený problém, ktorý musíte vyriešiť minimálne tromi algoritmami. Výber algoritmov je na vás, nesmiete však použiť algoritmy s neurónovými sieťami. Následne naimplementujete vybrané algoritmy, aplikujete ich pri riešení problému, a vyhodnotíte ich. K tomu musíte vykonať niekoľko experimentov s rôznymi nastaveniami hyperparametrov, výsledky vyhodnotiť a takto prispôsobiť hodnoty hyperparametrov. Pri jednom nastavení hyperparametrov vykonajte niekoľko testovacích behov, a výsledky spriemerujte. Vaše výsledky následne potrebujete zhrnúť v tabuľke. Pri vyhodnocovaní algoritmov môžete použiť rôzne metriky, ako napríklad rýchlosť trénovania, miera konvergencie, najlepšia dosiahnutá politika (*policy*), stabilita natrénovanej politiky, atď.
+Vašou úlohou je implementovať a aplikovať základné algoritmy učenia posilňovaním pre riešenie štandardných problémov, ktoré slúžia ako benchmarky pre takéto algoritmy. V prvom týždni vám bude pridelený problém, ktorý musíte vyriešiť minimálne dvomi algoritmami: jedným TD-algoritmom a jedným Monte Carlo algoritmom. Výber algoritmov je na vás, po konzultácii s cvičiacim si môžete upraviť zadanie tak, aby ste mohli použiť aj pkoročilejšie algoritmy (ak je to opodstatnené). Následne naimplementujete vybrané algoritmy, aplikujete ich pri riešení problému, a vyhodnotíte ich. K tomu musíte vykonať niekoľko experimentov s rôznymi nastaveniami hyperparametrov, výsledky vyhodnotiť a takto prispôsobiť hodnoty hyperparametrov. **Pri jednom nastavení hyperparametrov vykonajte niekoľko testovacích behov**, a výsledky spriemerujte. Vaše výsledky následne potrebujete zhrnúť v tabuľke. Pri vyhodnocovaní algoritmov môžete použiť rôzne metriky, ako napríklad rýchlosť trénovania, miera konvergencie, najlepšia dosiahnutá politika (*policy*), stabilita natrénovanej politiky, atď.
 
 ### Prostredia
-* Mountain Car - [pôvodná](https://gymnasium.farama.org/environments/classic_control/mountain_car/) alebo [spojitá](https://gymnasium.farama.org/environments/classic_control/mountain_car_continuous/) verzia
-* Frozen Lake - verzia [4x4](https://gymnasium.farama.org/environments/toy_text/frozen_lake/), resp. [8x8](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)
-* [Cart Pole](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+* Mountain Car - [pôvodná](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
+* Mountain Car - [spojitá](https://gymnasium.farama.org/environments/classic_control/mountain_car_continuous/)
 * [Acrobot](https://gymnasium.farama.org/environments/classic_control/acrobot/)
 * [Pendulum](https://gymnasium.farama.org/environments/classic_control/pendulum/)
-* [Taxi](https://gymnasium.farama.org/environments/toy_text/taxi/)
-* prípadne môžete použiť vlastné prostredie po konzultácii s cvičiacim (okrem Gridworld; vybrať si musíte do konca piateho týždňa)
+* [Inverted Pendulum](https://gymnasium.farama.org/environments/mujoco/inverted_pendulum/)
+* [Inverted Double Pendulum](https://gymnasium.farama.org/environments/mujoco/inverted_double_pendulum/)
+* [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/)
+* prípadne môžete použiť vlastné prostredie po konzultácii s cvičiacim (okrem Gridworld a Cart Pole; vybrať si musíte do konca piateho týždňa)
 
 ### Algoritmy
-Pri vypracovaní zadania môžete použiť ľubovoľný algoritmus pre učenie posilňovaním, ktorý nevyužíva neurónovú sieť. Ak si nie ste istí, výber algoritmov prekonzultuje s vyučujúcimi. Nápady pre algoritmy:
-
-* policy iteration
-* value iteration
-* Monte Carlo metódy
-* hierarchické učenie
-* Q-learning
-* SARSA
-* Double Q-learning
-* ...
+Pri vypracovaní zadania môžete použiť ľubovoľný algoritmus pre učenie posilňovaním, ktorý nevyužíva neurónovú sieť. Musíte porovnať aspoň jeden algoritmus TD-učenia a jeden Monte Carlo algoritmus. Ak si nie ste istí, výber algoritmov prekonzultuje s vyučujúcimi.
 
 ## Štruktúra riešenia
 Vaše riešenie musí mať nasledovnú štruktúru:
@@ -40,11 +32,11 @@ Vaše riešenie musí mať nasledovnú štruktúru:
     * porovnanie algoritmov na základe vami zvolených kritérií - tabuľková alebo grafová podoba.
 
 ## Odovzdávanie
-Vaše riešenia odovzdávate cez MS Teams ako jeden zip súbor s hore uvedenou štruktúrou. Termín odovzdania je **6. 4. 2022** (štvrtok). Po odovzdaní vaše riešenie musíte aj obhájiť - termíny budú vypísané pre posledné dva týždne semestra.
+Vaše riešenia odovzdávate cez MS Teams ako jeden zip súbor s hore uvedenou štruktúrou. Termín odovzdania je **5. 4. 2024** (piatok). Po odovzdaní vaše riešenie musíte aj obhájiť - termíny budú vypísané pre posledné dva týždne semestra.
 
 ## Hodnotenie
 Za zadanie môžete získať maximálne 10 bodov, pričom bodové rozdelenie je nasledovné:
 
-* **použité metódy a algoritmy**: 3 x 2 body - hodnotí sa správnosť prístupu a riešenia
+* **použité metódy a algoritmy**: 2 x 3 body - hodnotí sa správnosť prístupu a riešenia
 * **dokumentácia**: 2 body - hodnotí sa kvalita dokumentácie vašej práce
 * **obhajoba**: 2 body - hodnotí sa pochopenie kódu, obhajoba slúži aj ako kontrola originality; pri riešení môžete vychádzať z dostupných tutoriálov a ukážok, avšak predpoklad je, že kódu budete aj rozumieť a budete ho vedieť vysvetliť
