@@ -16,15 +16,15 @@ Prednáška z predmetu je vo štvrtok o 10:50 v miestnosti V102 v budove V4. Cvi
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
 |  1. týždeň<br>12. 2. - 18. 2. |              Úvod do učenia posilňovaním              |  Úvod do predmetu<br>[Matematické základy](https://marian.mach.website.tuke.sk/presentations/su2/prez-matrep.pdf)   | [Z1 zverejnené](assignments/assignment1.md)                  |
-|  2. týždeň<br>19. 2. - 25. 2. | Markovovské rozhodovacie procesy a Bellmanove rovnice | Návrh a implementácia vlastného prostredia |                                |
-|  3. týždeň<br>26. 2. - 3. 3.  |            Metódy dynamického programovania           |             Bellmanove rovnice             | Z2 zverejnené                  |
+|  2. týždeň<br>19. 2. - 25. 2. |            Markovovské rozhodovacie procesy           | Návrh a implementácia vlastného prostredia |                                |
+|  3. týždeň<br>26. 2. - 3. 3.  |                Dynamické programovanie                |             Bellmanove rovnice             | Z2 zverejnené                  |
 |  4. týždeň<br>4. 3. - 10. 3.  |                   Monte Carlo metódy                  |       Metódy policy a value iteration      |                                |
 |  5. týždeň<br>11. 3. - 17. 3. |				        TD-metódy  		    			|             Monte Carlo metódy             |                                |
 |  6. týždeň<br>18. 3. - 24. 3. |            Aproximácia hodnotových funkcií            |             Q-Learning a SARSA             |                                |
-|  7. týždeň<br>25. 3. - 31. 3. |                       Veľká Noc                       |           Q-siete, Deep Q-Network          |                                |
-|  8. týždeň<br>1. 4. - 7. 4.   |                  Aproximácia politiky                 |                 Veľká Noc                  | Z1 odovzdanie                  |
-|  9. týždeň<br>8. 4. - 14. 4.  |                                                       |        Práca so spojitými priestormi       |                                |
-| 10. týždeň<br>15. 4. - 21. 4. |                                                       |              preberanie zadaní             | Z2 odovzdanie                  |
+|  7. týždeň<br>25. 3. - 31. 3. |                       Veľká Noc                       |                 Veľká Noc                  |                                |
+|  8. týždeň<br>1. 4. - 7. 4.   |       Deep RL - Aproximácia hodnotových funkcií       |             Aproximačné metódy             | Z1 odovzdanie                  |
+|  9. týždeň<br>8. 4. - 14. 4.  |                  Aproximácia politiky                 |           Q-siete, Deep Q-Network          |                                |
+| 10. týždeň<br>15. 4. - 21. 4. |                     Medzi TD a MC                     |      Práca so spojitým priestorom akcií    | Z2 odovzdanie                  |
 
 [Ďalšie informácie k prednáškam sú dostupné na tejto stránke.](https://marian.mach.website.tuke.sk/course-mlII-en.html)
 
