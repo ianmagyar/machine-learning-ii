@@ -11,7 +11,7 @@ Informačný list predmetuje je dostupný na [školskom portáli](https://maispo
 
 ## Plán prednášok a cvičení <a name="plan"></a>
 
-Prednáška z predmetu je vo štvrtok o 10:50 v miestnosti V102 v budove V4. Cvičenia sú v pondelok o 7:30 v miestnosti V102 v budove V4. Účasť na cvičeniach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
+Prednáška z predmetu je vo štvrtok o 10:50 v miestnosti V102 v budove V4. Cvičenia sú vo štvrtok o 9:10 v miestnosti V102 v budove V4. Účasť na cvičeniach a prednáškach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
 
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
