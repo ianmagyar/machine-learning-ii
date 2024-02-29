@@ -39,7 +39,7 @@ Zápočet sa skladá z dvoch zadaní, prvé za 10, druhé za 20 bodov, z piatich
 | Domáce úlohy							  |   5  |
 | Zápočtová písomka						  |   5  |
 | [zadanie 1](assignments/assignment1.md) |  10  |
-| zadanie 2                               |  20  |
+| [zadanie 2](assignments/assignment2.md) |  20  |
 | skúška                                  |  60  |
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
