@@ -23,7 +23,7 @@ Prednáška z predmetu je vo štvrtok o 10:50 v miestnosti V102 v budove V4. Cvi
 |  6. týždeň<br>18. 3. - 24. 3. |            Aproximácia hodnotových funkcií            |             [Q-Learning a SARSA](labs/lab06-q-learning-and-sarsa.ipynb)             |                                |
 |  7. týždeň<br>25. 3. - 31. 3. |                       Veľká Noc                       |                 Veľká Noc                  |                                |
 |  8. týždeň<br>1. 4. - 7. 4.   |       Deep RL - Aproximácia hodnotových funkcií       |             [Aproximačné metódy](labs/lab07-discretization-approximation.ipynb)             | Z1 odovzdanie                  |
-|  9. týždeň<br>8. 4. - 14. 4.  |                  Aproximácia politiky                 |           Q-siete, Deep Q-Network          |                                |
+|  9. týždeň<br>8. 4. - 14. 4.  |                  Aproximácia politiky                 |           [Q-siete, Deep Q-Network](labs/lab08-q-networks.ipynb)          |                                |
 | 10. týždeň<br>15. 4. - 21. 4. |                     Medzi TD a MC                     |      Práca so spojitým priestorom akcií    | Z2 odovzdanie                  |
 
 [Ďalšie informácie k prednáškam sú dostupné na tejto stránke.](https://marian.mach.website.tuke.sk/course-mlII-en.html)
