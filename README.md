@@ -11,7 +11,7 @@ Informačný list predmetuje je dostupný na [školskom portáli](https://maispo
 
 ## Plán prednášok a cvičení <a name="plan"></a>
 
-Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičenia sú v pondelok o 7:30 v miestnosti 010 v budove V4. Účasť na cvičeniach a prednáškach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
+Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičenia sú v stredu o 9:10 v miestnosti 010 v budove V4. Účasť na cvičeniach a prednáškach je povinná, študenti môžu mať maximálne tri neúčasti za semester.
 
 |                               |                       Prednáška                       |                  Cvičenie                  |            Termíny             |
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
@@ -32,7 +32,7 @@ Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičeni
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
-Zápočet sa skladá z jedného zadania za 10 bodov, z niekoľkých domácich úloh a jednej zápočtovej písomky. Zadanie sa odovzdáva do konca deviateho týždňa, a budete ho obhajovať v desiatom týždni.
+Zápočet sa skladá z jedného zadania za 20 bodov, z niekoľkých domácich úloh a jednej zápočtovej písomky. Zadanie sa odovzdáva do konca deviateho týždňa, a budete ho obhajovať v desiatom týždni.
 
 |                  Zložka                 | Body |
 |:---------------------------------------:|:----:|
