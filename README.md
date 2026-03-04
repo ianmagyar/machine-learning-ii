@@ -17,7 +17,7 @@ Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičeni
 |:-----------------------------:|:-----------------------------------------------------:|:------------------------------------------:|--------------------------------|
 |  1. týždeň<br>16. 2. - 22. 2. |              Úvod do učenia posilňovaním              | Úvod do predmetu<br>[Matematické základy](https://marian.mach.website.tuke.sk/presentations/su2/prez-matrep.pdf)   |                                |
 |  2. týždeň<br>23. 2. - 1. 3.  |            Markovovské rozhodovacie procesy           | [Návrh a implementácia vlastného prostredia](labs/lab02-creating-environments.ipynb) |                                |
-|  3. týždeň<br>2. 3. - 8. 3.   |				        TD-metódy  		    			|             Bellmanove rovnice             | Zadanie zverejnené             |
+|  3. týždeň<br>2. 3. - 8. 3.   |				        TD-metódy  		    			|             [Bellmanove rovnice](labs/lab03-bellman-equation.ipynb)             | Zadanie zverejnené             |
 |  4. týždeň<br>9. 3. - 15. 3.  |            Aproximácia hodnotových funkcií            |             Q-Learning a SARSA             |                                |
 |  5. týždeň<br>16. 3. - 22. 3. |			          Medzi TD a MC         			|             Aproximačné metódy             |                                |
 |  6. týždeň<br>23. 3. - 29. 3. |       Deep RL - Aproximácia hodnotových funkcií       |                   *TBA*                    |                                |
