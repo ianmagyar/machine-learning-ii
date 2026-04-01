@@ -21,7 +21,7 @@ Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičeni
 |  4. týždeň<br>9. 3. - 15. 3.  |            Aproximácia hodnotových funkcií            |             [Q-Learning a SARSA](labs/lab04-q-learning-and-sarsa.ipynb)             |                                |
 |  5. týždeň<br>16. 3. - 22. 3. |			          Medzi TD a MC         			|             [Aproximačné metódy](labs/lab05-discretization-approximation.ipynb)             |                                |
 |  6. týždeň<br>23. 3. - 29. 3. |       Deep RL - Aproximácia hodnotových funkcií       |              Zápočtová písomka             |                                |
-|  7. týždeň<br>30. 3. - 5. 4.  |                  Aproximácia politiky                 |          Q-siete, Deep Q-Network           |                                |
+|  7. týždeň<br>30. 3. - 5. 4.  |                  Aproximácia politiky                 |          [Q-siete, Deep Q-Network](labs/lab06-q-networks.ipynb)           |                                |
 |  8. týždeň<br>5. 4. - 12. 4.  |                       Veľká Noc                       |                 Veľká Noc                  |                                |
 |  9. týždeň<br>12. 4. - 19. 4. |                  Plánovanie a učenie                  |          Actor-critic architektúry         | Deadline zadanie               |
 | 10. týždeň<br>19. 4. - 26. 4. |                         *TBA*                         |             odovzdávanie zadaní            |                                |
