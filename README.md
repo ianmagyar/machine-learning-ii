@@ -23,7 +23,7 @@ Prednáška z predmetu je v utorok o 9:10 v miestnosti 010 v budove V4. Cvičeni
 |  6. týždeň<br>23. 3. - 29. 3. |       Deep RL - Aproximácia hodnotových funkcií       |              Zápočtová písomka             |                                |
 |  7. týždeň<br>30. 3. - 5. 4.  |                  Aproximácia politiky                 |          [Q-siete, Deep Q-Network](labs/lab06-q-networks.ipynb)           |                                |
 |  8. týždeň<br>5. 4. - 12. 4.  |                       Veľká Noc                       |                 Veľká Noc                  |                                |
-|  9. týždeň<br>12. 4. - 19. 4. |                  Plánovanie a učenie                  |          Actor-critic architektúry         | Deadline zadanie               |
+|  9. týždeň<br>12. 4. - 19. 4. |                  Plánovanie a učenie                  |          [Actor-critic architektúry](labs/lab07-actor-critic.ipynb)         | Deadline zadanie               |
 | 10. týždeň<br>19. 4. - 26. 4. |                         *TBA*                         |             odovzdávanie zadaní            |                                |
 
 [Ďalšie informácie k prednáškam sú dostupné na tejto stránke.](https://marian.mach.website.tuke.sk/course-mlII-en.html)
